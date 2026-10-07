@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "hellslayer1.aternos.me",
+    "ip": "hellslayerMC.aternos.me",
     "port": 62689,
     "version": "",
     "try-creative": false
